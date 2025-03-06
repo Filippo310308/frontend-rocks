@@ -33,7 +33,7 @@ export const App = () => {
           </button>
 
           <button 
-          className="bg-red-500 text-white px-4 py-2 rounded-md shadow-md cursor-pointer hover:bg-red-400 transition-colors"
+          className="bg-red-700 text-white px-4 py-2 rounded-md shadow-md cursor-pointer hover:bg-red-500 transition-colors"
           onClick={()=> setTitle("Geodude")}>
             cambia titolo
           </button>
