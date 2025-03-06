@@ -1,6 +1,7 @@
 @import "tailwindcss";
 
 body {
-  background-image: url('https://th.bing.com/th/id/OIP.RQPevx7scEia8xl6mCPoGgHaFK?rs=1&pid=ImgDetMain');
+  background-image: url('https://th.bing.com/th/id/R.2d2dbaadd1778fa8eb4323484d382d6d?rik=hFZI6MPbtlr3JA&pid=ImgRaw&r=0');
+  background-size: 100%;
   background-repeat: repeat;
 }
